@@ -1,0 +1,2 @@
+# goldteamrules
+gold team
