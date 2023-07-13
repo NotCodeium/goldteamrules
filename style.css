@@ -1,5 +1,6 @@
 p{
     color:gold;
+<<<<<<< HEAD
     font-size:40px;
 }
 
@@ -8,4 +9,11 @@ h1 {
   text-decoration:underline;
   color:gold;
   
+=======
+    font-size:30;
+}
+body{
+    background-image: url(https://www.psu.com/wp/wp-content/uploads/2020/06/DiabloIV-2-1024x576.jpg)
+    
+>>>>>>> ed9487a28112ccde80e6e8b269c66cbed9b1bf37
 }
